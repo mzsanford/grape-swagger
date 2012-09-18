@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = "grape-swagger"
+  s.name = "mzsanford-grape-swagger"
   s.version = "0.3.0.pre.1"
 
   s.required_rubygems_version = Gem::Requirement.new("> 1.3.1") if s.respond_to? :required_rubygems_version=
@@ -75,4 +75,3 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<rspec>, [">= 0"])
   end
 end
-
